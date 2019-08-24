@@ -1,4 +1,4 @@
-# WatchIOBinary
+# WatchIO-Firmware
 
 Binary firmware and download tool of WatchIO (esp_tool wrapped)
 
